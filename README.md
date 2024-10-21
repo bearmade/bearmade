@@ -1,5 +1,7 @@
 ## ✨ Hunter Singleton ✨
 
+**retro and modern gamedev**
+
 ### <About me>
 
 - Currently in school for Game and Simulation Programming, graduating Spring 2025.
