@@ -1,16 +1,15 @@
-## Hi there 👋
+## ✨ Hunter Singleton ✨
 
-<!--
-**bearmade/bearmade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <About me>
 
-Here are some ideas to get you started:
+- Programmer, artist, and musician with a passion for creative expression across disciplines.
+- Enthusiast of cellular automata, complex systems, and procedural content generation.
+- Proficient in C++, Python, and Bash, with the ability to quickly learn new programming languages.
+- Strong advocate for Linux, embracing the flexibility and control it offers.
+- Minimalist in all forms, from code to design and lifestyle.
+- Versatile problem solver with a strong interest in both technical and artistic pursuits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ----------
+  
+https://bearmade.github.io/
+
